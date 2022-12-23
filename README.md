@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+# I'm Sagar Kushwah
 I am skilled in C, C++, Java, Python Programming Language, and Computer Security. Currently pursuing a BTech Degree focused on Cloud Computing.
 
 
