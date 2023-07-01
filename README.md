@@ -14,8 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm Sagar Kushwah
-I am skilled in C, C++, Java, Python Programming Language, and Computer Security. Currently pursuing a BTech Degree focused on Cloud Computing.
+# Hello, I'm Sagar Kushwah, a passionate computer science graduate engineer specializing in Cloud Computing and Virtualization technology.
+
+🎓 As a recent graduate, I hold a degree in Computer Science with a focus on software engineering. I have a strong foundation in programming languages, algorithms, data structures, and software design principles.
+
+💻 Throughout my studies, I have gained hands-on experience working on various projects, ranging from building web applications to creating robust software systems. I enjoy solving complex problems and implementing efficient solutions through clean and well-tested code.
+
+🌱 I have an insatiable curiosity for emerging technologies and love staying up-to-date with the latest industry trends. My areas of interest include cloud computing, distributed systems, and DevOps practices. I am always eager to learn new tools and frameworks that improve our ability to develop high-quality software.
+
+🔭 As a graduate engineer, I am actively seeking opportunities to contribute to impactful projects and collaborate with fellow developers. I am open to both research-based and industry-oriented work and I'm excited about the potential to make a positive impact on society through technology.
 
 
 ## 🌐 Socials:
